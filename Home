@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="javo" content="javier gonzalez venegas" />
+    <meta name="copyright" content="© 2019 MDC" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="-1">
+
+    <title>Web Rincon del Hip-Hop</title>
+
+
+
+
+</head>
+<body>
+    <h2>Formulario de Contacto</h2>
+    <br>
+
+    <form>
+        <label for="nombre">Nombre:</label>
+        <input id="nombre" name="nombre" placeholder="Nombre completo"><br><br>
+        <label for="email">Email:</label>
+        <input id="email" name="email" type="email" placeholder="ejemplo@email.com"><br><br>
+        <label for="mensaje">Mensaje:</label>
+        <textarea id="mensaje" name="mensaje" placeholder="Danos tu mensaje"></textarea><br><br>
+        <input id="submit" name="submit" type="submit" value="Enviar">
+    </form>
+     
+    <br><br>
+
+    <strong>Siguenos en:</strong>
+
+
+    <br>
+    <br>
+
+    <div>
+        <table>
+            <tr>
+                <td>
+                    <a href="https://www.facebook.com/H2DeCalle/" target="_blank"></a> <img  src="Nuevo-logo-Facebook-600x338.png" style="max-width: 50px; max-height: 50px" />
+                </td>
+                <td>Facebook</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://twitter.com/RapChilenoCl" target="_blank"></a> <img  src="Twitter-logo-600x338.png" style="max-width: 50px; max-height: 50px" />
+                </td>
+                <td>Twitter</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="https://www.instagram.com/rap_chileno.h2/?hl=es-la" target="_blank"></a><img src="Instagram-logo-600x338.png" style="max-width: 50px; max-height: 50px" />
+                </td>
+                <td>Instagram</td>
+        </table>
+        <br><br>
+    </div>
+
+</body>
+</html>
